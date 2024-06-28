@@ -1,0 +1,107 @@
+[
+    {
+        "value": "",
+        "text": "Choisissez..."
+    },
+    {
+        "value": "Sur site",
+        "text": "Sur site"
+    },
+    {
+        "value": "Hybride",
+        "text": "Hybride"
+    },
+    {
+        "value": "Télétravail",
+        "text": "Télétravail"
+    }
+]
+
+
+[
+    {
+        "id": "filter-experience-debutant",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "Débutant",
+        "label": "Débutant"
+    },
+    {
+        "id": "filter-experience-1-an",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "1 an",
+        "label": "1 an"
+    },
+    {
+        "id": "filter-experience-2-ans",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "2 ans",
+        "label": "2 ans"
+    },
+    {
+        "id": "filter-experience-3-ans",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "3 ans",
+        "label": "3 ans"
+    },
+    {
+        "id": "filter-experience-4-ans",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "4 ans",
+        "label": "4 ans"
+    },
+    {
+        "id": "filter-experience-5-ans",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "5 ans",
+        "label": "5 ans"
+    },
+    {
+        "id": "filter-experience-6-ans",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "6 ans",
+        "label": "6 ans"
+    },
+    {
+        "id": "filter-experience-7-ans",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "7 ans",
+        "label": "7 ans"
+    },
+    {
+        "id": "filter-experience-8-ans",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "8 ans ",
+        "label": "8 ans"
+    },
+    {
+        "id": "filter-experience-9-ans",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "9 ans",
+        "label": "9 ans"
+    },
+    {
+        "id": "filter-experience-10-ans",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "10 ans",
+        "label": "10 ans"
+    },
+    {
+        "id": "filter-experience-plus-de-10-ans",
+        "type": "radio",
+        "name": "filter-experience",
+        "value": "Plus de 10 ans",
+        "label": "Plus de 10 ans"
+    }
+]
+
